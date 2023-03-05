@@ -4,7 +4,7 @@ github_username: justingibbs
 show_downloads: true
 
 google_analytics:
-# theme: minima
+theme: minima
 
 minima:
   
