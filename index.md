@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Home
+title: Blog
 ---
+<h1>Latest Posts</h1>
 
-# My Homepage
-## Copy goes here.
-Copy, oh happy copy.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
