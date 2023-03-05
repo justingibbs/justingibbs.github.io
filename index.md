@@ -1,5 +1,5 @@
 ---
-# the title that will appear in the HTML head tag
+layout: page
 title: Home
 ---
 
