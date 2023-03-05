@@ -1,6 +1,7 @@
 ---
-title: "Test Blog Post"
-date: 2023-03-04
+layout: post
+title: "2nd Blog Post"
+date: 2023-03-05
 tags: Test
 category: test category
 ---
