@@ -3,7 +3,7 @@ description: Explorlations into how AI can generate the Great American Screenpla
 show_downloads: true
 
 google_analytics:
-theme: minima
+theme: minimal
 
 minima:
   # Minima date format.
