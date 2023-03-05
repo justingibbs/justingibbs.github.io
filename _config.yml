@@ -1,5 +1,6 @@
 title: Justin Gibbs - AI Screenwriter
 description: Explorlations into how AI can generate the Great American Screenplay
+github_username: justingibbs
 show_downloads: true
 
 google_analytics:
@@ -15,10 +16,22 @@ minima:
   #
   
 linkedin_username: justingibbs
+github: justingibbs
 
 header_pages:
    - about.md
+   
+# Set this to true to display the summary of your blog post under your title on the Home page.
+show_description: true
+
+# Set this to true to display tags on each post
+show_tags: true
 
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: true
+
+# See https://jekyllrb.com/docs/pagination/
+# For pagination to work, you cannot have index.md at the root of your repo, instead you must rename this file to index.html
+paginate: 15
+paginate_path: /page:num/
