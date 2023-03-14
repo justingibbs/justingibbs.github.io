@@ -1,3 +1,6 @@
 # About
 
-I am a Product Manager in Silicon Valley who has always harbored dreams of writing the Great American Screenplay. So far I have come up short but have a lot of grit and recently got addicted to AI with transformers. So here I will explore how to train, utilize new techniques, for generating story and ultimately one worthy of being on screen. 
+1) Can Generative AI author the Great American Screenplay?
+2) Can Generative AI stumble upon a more accurate description of the economy and how it works than is found in popular economic thought? 
+
+These are the two questions I will use to guide my exploration into Generative AI and capture in this blog.
