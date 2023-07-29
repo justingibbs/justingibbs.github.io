@@ -1,3 +1,4 @@
 # Reading list
 
-Coming soon...
+1. Wonderlust 
+Reid Mitenbuler 
