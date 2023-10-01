@@ -3,4 +3,10 @@ title: "Notes - Dramatron"
 date: 2023-03-04
 ---
 
-test
+# Dramatron
+
+# LLM Screenplay Project
+
+# Generative AI Industry
+
+# Use Cases
