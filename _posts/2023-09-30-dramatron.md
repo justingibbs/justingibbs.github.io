@@ -13,7 +13,11 @@ I experimented with [Dramatron from DeepMind](https://www.deepmind.com/open-sour
   - Do not rely on a theme - Similar to relying on summaries but I can lean on [David Mamet](https://en.wikipedia.org/wiki/David_Mamet) in his [Master Class on dramatic writing](https://www.masterclass.com/classes/david-mamet-teaches-dramatic-writing) holds up a script, shakes it, and says no theme falls out of it. The only thing in a screenplay is the characters taking action in pursuit of their goals. I'm not saying that there isn't a theme, but we need to be careful not to conflate the appreciation and study of art for how art is created.
 
 # Generative AI Industry
-- Attened [The AI Conference](https://aiconference.com/) which was awesome however many of us couldn't escape the feeling of "[Selling pickaxes during a gold rush](https://cdixon.org/2011/02/05/selling-pickaxes-during-a-gold-rush)"
+- Attened [**The AI Conference**](https://aiconference.com/) which was awesome however many of us couldn't escape the feeling of "[Selling pickaxes during a gold rush](https://cdixon.org/2011/02/05/selling-pickaxes-during-a-gold-rush)"
+- Also got to **Google Cloud - Generative AI Live + Labs Sunnyvale**
+  - “LLMs are like fancy autocomplete”
+  - “Hottest programming language is English”
+  - Google sticking it's AI efforts into the convoluted soup that is Google Cloud is frustrating and in poor contrast with the focus and simplicity of OpenAI. Is it me or has everyone working in the Cloud just come to expect clutter and lack of clear vision? Or am I off base for not being their target audience.
 
 # Use Cases that just might be viable
 - None Player Characters (NPCs) - The value add here is pretty clear and a few startups have picked up on this opportunity. The challenge, however, lies in transcending the status of a mere LLM wrapper. What unique value can these startups offer that one can't achieve by simply crafting a well-thought-out prompt for an LLM?
