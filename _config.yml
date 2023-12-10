@@ -1,5 +1,5 @@
 title: Justin Gibbs
-description: Unlocking Generative AI's System 2 thinking through screenwriting
+description: Trying to unlock Generative AI's System 2 thinking through screenwriting
 github_username: justingibbs
 show_downloads: true
 
@@ -9,7 +9,6 @@ theme: minima
 minima:
 
 linkedin_username: justingibbs
-{ platform: bluesky,        user_url: "https://bsky.app/profile/justingibbs.bsky.social" }
 github: justingibbs
 
 header_pages:
