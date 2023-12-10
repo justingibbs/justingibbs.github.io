@@ -7,8 +7,9 @@ google_analytics:
 theme: minima
 
 minima:
-  
+
 linkedin_username: justingibbs
+{ platform: bluesky,        user_url: "https://bsky.app/profile/justingibbs.bsky.social" }
 github: justingibbs
 
 header_pages:
