@@ -9,5 +9,5 @@ I use the term 'editor' over 'focus' as it better captures the humanistic side o
 
 Lucky enough for me, dreaming and editing is also my day job as a Product Manager in Silicon Valley, where my utmost responsibility is to ensure what the team is building meets a real need.
 
-# About this blog - System 1 Generative AI to System 2 with screenwriting
+# About this blog - Trying to unlock Generative AI's System 2 thinking through screenwriting
 Being fascinated by Generative AI and LLMs I have also been caught up in the idea of pushing them to [System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow). The keys to exploring this I believe, are narrowing of domain and the reward function. For me, that domain will be 'screenwriting'. The reward function and everything else is up in the air. But at the moment the goal might best be defined as: Push Generative AI beyond predicting the next best word or line of dialogue to predicting the next best scene. You will understand why this is a true challenge if you're a screenwriter.
