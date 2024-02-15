@@ -1,5 +1,5 @@
 title: Justin Gibbs
-description: Trying to unlock Generative AI's System 2 thinking through screenwriting
+description: Trying to understand Generative AI to understand humans better
 github_username: justingibbs
 show_downloads: true
 
@@ -13,6 +13,5 @@ github: justingibbs
 
 header_pages:
    - about.md
-   - llm_screenwriter.md
    - reading_list.md
    - blog.md
